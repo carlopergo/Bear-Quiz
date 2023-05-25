@@ -327,6 +327,11 @@ footer button.show{
     margin-bottom: 10px;
 }
 
+IMG {
+    width: 360px;
+    height: auto;
+}
+
 .result_box .complete_text{
     font-size: 20px;
     font-weight: 500;
@@ -373,11 +378,11 @@ footer button.show{
 }
 
 .buttons button.quit{
-    color: #da2bd7;
+    color: #228b22;
     background: #fff;
 }
 
 .buttons button.quit:hover{
     color: #fff;
-    background: #da2bd7;
+    background: #228b22;
 }
